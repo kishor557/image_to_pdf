@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["venkat@param-solutions.com"]
 
   spec.summary       = %q{Converts image to pdf}
-  spec.description   = %q{image2pdf accepts jpeg/png/gif/svg path as input and converts into a pdf file}
+  spec.description   = %q{image_to_pdf accepts jpeg/png/gif/svg path as input and converts into a pdf file}
   spec.homepage      = "https://github.com/kishor557/image_to_pdf"
   spec.license       = "MIT"
 
